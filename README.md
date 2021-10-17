@@ -1,3 +1,3 @@
 # damian
 learn
-Hi Lear about Gith
+Hi Learn about Gith
